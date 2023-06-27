@@ -4,7 +4,9 @@
 </div>
 </div>
 <div style="width:100%;">&nbsp;</div>
+
 # FDS-2023-1-CC52
+
 <center><h1>Creacion de conocimiento aplicando la metodología CRISP-DM</h1></center>
 
 1. GIntegrantes del Grupo 3
