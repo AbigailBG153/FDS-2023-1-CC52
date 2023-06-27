@@ -3,7 +3,7 @@
 <img src="https://www.laureate.net/wp-content/uploads/2019/03/10-UPC-Universidad-Peruana-de-Ciencias-Aplicadas.png", align="left">
 </div>
 </div>
-
+<div style="width:100%;">&nbsp;</div>
 # FDS-2023-1-CC52
 <center><h1>Creacion de conocimiento aplicando la metodología CRISP-DM</h1></center>
 
