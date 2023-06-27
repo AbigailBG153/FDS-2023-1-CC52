@@ -5,9 +5,13 @@
 </div>
 
 # FDS-2023-1-CC52
+<center><h1>Creacion de conocimiento aplicando la metodología CRISP-DM</h1></center>
 
+#GIntegrantes del Grupo 3
+* Gonzales Astoray, Andrea Abigail	              U20211C561
+* Marco Antonio Fuentes Rivera Onofre            U20211b693
+* Esteban Fabricio Cabrera Arbizu                       U202014600
 
-grupo 3 
 * Objetivo del proyecto.
 * Nombre de los alumnos participantes.
 * Breve descripción del conjunto de datos (se puede adjuntar el archivo PDF).
