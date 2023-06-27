@@ -1,6 +1,6 @@
 <div style="width: 50%; clear: both;">
 <div style="float: left; width: 20%;">
-<img src="https://www.laureate.net/wp-content/uploads/2019/03/10-UPC-Universidad-Peruana-de-Ciencias-Aplicadas.png", align="left">
+<img src="https://www.laureate.net/wp-content/uploads/2019/03/10-UPC-Universidad-Peruana-de-Ciencias-Aplicadas.png", align="center">
 </div>
 </div>
 <div style="width:100%;">&nbsp;</div>
