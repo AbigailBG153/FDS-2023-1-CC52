@@ -7,9 +7,7 @@
 
 # FDS-2023-1-CC52
 
-<center><h1>Creacion de conocimiento aplicando la metodología CRISP-DM</h1></center>
-
-# Proyecto de Análisis de Datos - Metodología CRISP-DM
+<center><h1>CProyecto de Análisis de Datos - Metodología CRISP-DM</h1></center>
 
 ## Objetivo del Proyecto
 El objetivo de este proyecto es realizar un análisis de un conjunto de datos utilizando la metodología CRISP-DM. Se busca:
